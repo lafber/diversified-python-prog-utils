@@ -1,2 +1,7 @@
-# diversified-python-prog-utils
-Python Programs Utilities for PDF and others diversified subjects
+# My Python utilities program for diverse stuffs
+
+
+## PDF related program
+
+### Extracting from a pdf table of contents the text and removing the pages
+pdf-table-of-contents-to-text.py
